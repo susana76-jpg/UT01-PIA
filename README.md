@@ -1,5 +1,4 @@
-# UT01-PIA
-    Hola mundo en Python
+
 # UT01-PIA: Hola Mundo en Python
 
 📘 Descripción
